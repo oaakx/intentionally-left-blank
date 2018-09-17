@@ -1,6 +1,6 @@
 # Intentionally Left Blank
 
-![Screenshot "This Page Intentionally Left Blank"](empty-page.png)
+> ![Screenshot "This Page Intentionally Left Blank"](empty-page.png)
 (Distributed Algorithms, Nancy A. Lynch, 1996, page vi.)
 
 The page in the picture above is 99.88593426672175% white(/blank).
